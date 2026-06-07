@@ -28,7 +28,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Author
+Author : 
 Gandham Supragna Sri Machine Learning Intern at Prodigy InfoTech
 
 LIVE LINK : https://appigyml02-absyvveao2keb7s5hywuqd.streamlit.app/
