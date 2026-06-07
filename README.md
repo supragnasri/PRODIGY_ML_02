@@ -27,3 +27,4 @@ K-Means Clustering
 pip install -r requirements.txt
 streamlit run app.py
 ```
+LIVE LINK : https://appigyml02-absyvveao2keb7s5hywuqd.streamlit.app/
